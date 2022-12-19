@@ -1,2 +1,2 @@
 # Pokemon
-Project with wcoding Seoul
+Project with CodeSeoul
